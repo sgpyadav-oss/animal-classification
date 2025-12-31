@@ -1,0 +1,5 @@
+{
+  "name": "VisionQuest AI",
+  "description": "A high-performance object detection dashboard using Gemini 3 Vision. Upload images to identify objects with precise bounding boxes and confidence scores in real-time.",
+  "requestFramePermissions": []
+}
